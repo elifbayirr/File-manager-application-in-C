@@ -21,3 +21,5 @@ Type exit to exit the application !
 
 **Don't worry, the application will constantly guide you with messages.**
 		
+
+Most important feature of your filemanager will be such that project is using it on top of any operating system thathas a standard C compiler installed. Hence, you should NOT use any operating systemscommands (shell commands, utilities, etc.), nor any system calls in your project.
